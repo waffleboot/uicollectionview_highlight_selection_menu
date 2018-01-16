@@ -1,0 +1,4 @@
+
+The main idea is to postpone unhighlighting until closing menu.
+When we press fingers too long then standard menu will be opened but standard menu unhighlight cell and set cell as selected
+so to prevent unhighlighting cell I postpone UI changes and update state afrer menu closing.

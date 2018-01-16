@@ -14,6 +14,7 @@
 		F54669F0200D326900C73A27 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F54669EE200D326900C73A27 /* LaunchScreen.storyboard */; };
 		F54669F3200D326900C73A27 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F54669F2200D326900C73A27 /* main.m */; };
 		F54669FB200D336600C73A27 /* MyCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F54669FA200D336600C73A27 /* MyCollectionViewCell.m */; };
+		F54669FF200D875400C73A27 /* README in Resources */ = {isa = PBXBuildFile; fileRef = F54669FE200D875400C73A27 /* README */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		F54669F2200D326900C73A27 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F54669F9200D336600C73A27 /* MyCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyCollectionViewCell.h; sourceTree = "<group>"; };
 		F54669FA200D336600C73A27 /* MyCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyCollectionViewCell.m; sourceTree = "<group>"; };
+		F54669FE200D875400C73A27 /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 		F54669D7200D326900C73A27 = {
 			isa = PBXGroup;
 			children = (
+				F54669FE200D875400C73A27 /* README */,
 				F54669E2200D326900C73A27 /* selection */,
 				F54669E1200D326900C73A27 /* Products */,
 			);
@@ -134,6 +137,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F54669FF200D875400C73A27 /* README in Resources */,
 				F54669F0200D326900C73A27 /* LaunchScreen.storyboard in Resources */,
 				F54669ED200D326900C73A27 /* Assets.xcassets in Resources */,
 				F54669EB200D326900C73A27 /* Main.storyboard in Resources */,
